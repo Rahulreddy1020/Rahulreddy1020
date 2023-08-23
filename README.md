@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">https://giphy.com/gifs/pudgypenguins-data-code-coding-unxCGmTuBvwo2djRLA/fullscreen</h3>
-
+<p align="center">
+  <img src="[GIF_URL_HERE](https://giphy.com/gifs/pudgypenguins-data-code-coding-unxCGmTuBvwo2djRLA/fullscreen)" alt="Animated GIF">
+</p>
 
 <p align="left">
 </p>
