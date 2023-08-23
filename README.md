@@ -1,5 +1,4 @@
-
-     ![giphy](https://github.com/Rahulreddy1020/Rahulreddy1020/assets/83365184/db31398e-0ff5-45e2-9d8e-1b31524bf8bd)
+![giphy](https://github.com/Rahulreddy1020/Rahulreddy1020/assets/83365184/db31398e-0ff5-45e2-9d8e-1b31524bf8bd)
 
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
