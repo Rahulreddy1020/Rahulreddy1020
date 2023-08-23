@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">https://giphy.com/gifs/pudgypenguins-data-code-coding-unxCGmTuBvwo2djRLA/fullscreen</h3>
+<h3 align="center"> Data Engineer </h3>
 
 
 <p align="left">
