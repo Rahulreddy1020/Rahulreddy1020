@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Distributed systems and Data Pipelines<br>👯 I’m looking to collaborate on java <br>🤝 I’m looking for help with Scala and Go<br>🌱 I’m currently learning Vector DB and Distributed Query Engines<br>💬 Ask me about Streaming pipelines<br>⚡ Fun fact : I thrive on the spontaneity of connecting with strangers
+🔭 I’m currently working on Distributed systems and Data Pipelines<br>👯 I’m looking to collaborate on Gen AI <br>🤝 I’m looking for help with Scala and Go<br>🌱 I’m currently learning Vector DB and Distributed Query Engines<br>💬 Ask me about Streaming pipelines<br>⚡ Fun fact : I thrive on the spontaneity of connecting with strangers
 
 
 ## 🌐 Socials:
