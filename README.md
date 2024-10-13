@@ -10,12 +10,14 @@
 
 # Projects
 1. CANBus Anomaly Detection using Autoencoder & LSTM
+  ![image](https://github.com/user-attachments/assets/9f16693a-f2d4-40dc-90af-55995e575c7f)
 
-2. Knowledge Graph extraction & Graph RAG Construction
 
-3. Text to Prompt Generation using Vision Transformer
+3. Knowledge Graph extraction & Graph RAG Construction
 
-4. Realtime AWS streaming pipeline for Intrusion Detection
+4. Text to Prompt Generation using Vision Transformer
+
+5. Realtime AWS streaming pipeline for Intrusion Detection
 
 
 
