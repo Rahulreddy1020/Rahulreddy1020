@@ -13,11 +13,15 @@
   ![image](https://github.com/user-attachments/assets/9f16693a-f2d4-40dc-90af-55995e575c7f)
 
 
-3. Knowledge Graph extraction & Graph RAG Construction
+3. [Knowledge Graph extraction & Graph RAG Construction](https://github.com/Rahulreddy1020/GraphRAG-298)
+   ![image](https://github.com/user-attachments/assets/fea01e86-5b6e-4ec1-ab79-033238c83c87)
 
-4. Text to Prompt Generation using Vision Transformer
+4. [Text to Prompt Generation using Vision Transformer](https://github.com/Rahulreddy1020/Stablediffusion-image2promt)
+   ![image](https://github.com/user-attachments/assets/f007a559-df8f-47bf-b53f-5f7c4c49cda5)
 
-5. Realtime AWS streaming pipeline for Intrusion Detection
+
+6. [Realtime AWS streaming pipeline for Intrusion Detection](https://github.com/Rahulreddy1020/Streaming-data-pipeline)
+   ![image](https://github.com/user-attachments/assets/780adc02-70e3-43b4-81c4-48e69f0ccccf)
 
 
 
