@@ -10,18 +10,16 @@
 
 # Projects
 1. [CANBus Anomaly Detection using Autoencoder & LSTM](https://github.com/gabriale99/Data270Project)
-  ![image](https://github.com/user-attachments/assets/9f16693a-f2d4-40dc-90af-55995e575c7f)
+   <img src="https://github.com/user-attachments/assets/9f16693a-f2d4-40dc-90af-55995e575c7f" width="300" alt="CANBus Anomaly Detection">
 
+2. [Knowledge Graph extraction & Graph RAG Construction](https://github.com/Rahulreddy1020/GraphRAG-298)
+   <img src="https://github.com/user-attachments/assets/fea01e86-5b6e-4ec1-ab79-033238c83c87" width="300" alt="Knowledge Graph extraction">
 
-3. [Knowledge Graph extraction & Graph RAG Construction](https://github.com/Rahulreddy1020/GraphRAG-298)
-   ![image](https://github.com/user-attachments/assets/fea01e86-5b6e-4ec1-ab79-033238c83c87)
+3. [Text to Prompt Generation using Vision Transformer](https://github.com/Rahulreddy1020/Stablediffusion-image2promt)
+   <img src="https://github.com/user-attachments/assets/f007a559-df8f-47bf-b53f-5f7c4c49cda5" width="300" alt="Text to Prompt Generation">
 
-4. [Text to Prompt Generation using Vision Transformer](https://github.com/Rahulreddy1020/Stablediffusion-image2promt)
-   ![image](https://github.com/user-attachments/assets/f007a559-df8f-47bf-b53f-5f7c4c49cda5)
-
-
-6. [Realtime AWS streaming pipeline for Intrusion Detection](https://github.com/Rahulreddy1020/Streaming-data-pipeline)
-   ![image](https://github.com/user-attachments/assets/780adc02-70e3-43b4-81c4-48e69f0ccccf)
+4. [Realtime AWS streaming pipeline for Intrusion Detection](https://github.com/Rahulreddy1020/Streaming-data-pipeline)
+   <img src="https://github.com/user-attachments/assets/780adc02-70e3-43b4-81c4-48e69f0ccccf" width="300" alt="AWS streaming pipeline">
 
 
 
