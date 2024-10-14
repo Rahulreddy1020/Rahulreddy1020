@@ -10,16 +10,26 @@
 
 # Projects
 1. [CANBus Anomaly Detection using Autoencoder & LSTM](https://github.com/gabriale99/Data270Project)
+   
    <img src="https://github.com/user-attachments/assets/9f16693a-f2d4-40dc-90af-55995e575c7f" style="width: 100%; height: 300px; object-fit: cover;" alt="CANBus Anomaly Detection">
 
-2. [Knowledge Graph extraction & Graph RAG Construction](https://github.com/Rahulreddy1020/GraphRAG-298)
+2. [Question Answering using Advanced RAG](https://github.com/Rahulreddy1020/RAG)
+
+   <img src="https://github.com/user-attachments/assets/5c1379ed-78a8-41db-9c16-4e9d923fe923" style="width: 100%; height: 300px; object-fit: cover;" alt="Question Answering System">
+
+
+4. [Knowledge Graph extraction & Graph RAG Construction](https://github.com/Rahulreddy1020/GraphRAG-298)
+   
    <img src="https://github.com/user-attachments/assets/fea01e86-5b6e-4ec1-ab79-033238c83c87" style="width: 100%; height: 400px; object-fit: cover;" alt="Knowledge Graph extraction">
 
-3. [Text to Prompt Generation using Vision Transformer](https://github.com/Rahulreddy1020/Stablediffusion-image2promt)
+5. [Text to Prompt Generation using Vision Transformer](https://github.com/Rahulreddy1020/Stablediffusion-image2promt)
+   
    <img src="https://github.com/user-attachments/assets/f007a559-df8f-47bf-b53f-5f7c4c49cda5" style="width: 100%; height: 500px; object-fit: cover;" alt="Text to Prompt Generation">
 
-4. [Realtime AWS streaming pipeline for Intrusion Detection](https://github.com/Rahulreddy1020/Streaming-data-pipeline)
+7. [Realtime AWS streaming pipeline for Intrusion Detection](https://github.com/Rahulreddy1020/Streaming-data-pipeline)
+   
    <img src="https://github.com/user-attachments/assets/780adc02-70e3-43b4-81c4-48e69f0ccccf" style="width: 100%; height: 400px; object-fit: cover;" alt="AWS streaming pipeline">
+   
 
 
 # 📊 GitHub Stats:
